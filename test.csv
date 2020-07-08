@@ -1,0 +1,10 @@
+coursename,num,bank,cvv
+javascrpt,10,sbi,123
+python ,12,kyc,134
+
+
+
+to the function
+@data(*getCSVData(file path))
+@unpack
+
